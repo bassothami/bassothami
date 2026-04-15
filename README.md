@@ -50,16 +50,14 @@ Me chamo Thamires Basso, tenho 19 anos. Atualmente, estou cursando Ciência da C
 
 ### Estatísticas
 
-<p>
+<p align="center">
   <img 
-    alt="GitHub Stats" 
-    height="200" 
+    height="180em" 
     src="https://github-readme-stats.vercel.app/api?username=bassothami&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
   />
 
   <img 
-    alt="Top Languages" 
-    height="200" 
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=bassothami&theme=tokyonight&layout=compact&custom_title=Tecnologias%20mais%20usadas&langs_count=9" 
+    height="180em" 
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=bassothami&layout=compact&theme=tokyonight&langs_count=8" 
   />
 </p>
